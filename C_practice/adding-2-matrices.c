@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int A[3][3], B[3][3], C[3][3], i, j;
-    printf("Enter the 9 numbers for first matrices");
+    printf("Enter the 9 numbers for first matricessksk");
     for(i=0;i<=2;i++)
     for(j=0;j<=2;j++)
     scanf("%d", &A[i][j]);
